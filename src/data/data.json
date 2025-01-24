@@ -1,0 +1,142 @@
+{
+    "Header": {
+
+        "title": "אבי הנפלינג",
+        "paragraph": "יועץ משכנתאות המלווה אתכם בתהליך רכישת דירה ובניית תמהיל משכנתא מותאם אישית. עם דגש לצמיחה פיננסית,והתייעלות כלכלית במשק הבית   להשקעות חכמות, חיסכון לטווח ארוך ושיפור כלכלי.",
+        "intro": "לקיחת משכנתא יכולה להיות מאתגרת ומלחיצה, ויש סיכון אמיתי להיתקל בקשיים כלכליים אם לא מתכננים את זה בצורה מדויקת. ",
+        "description": "המסלולים המבלבלים, התרוצצות בין הבנקים, השינויים בריביות והעומס הנפשי – כל אלה יכולים להוביל להחזר חודשי גבוה ובלתי צפוי, ובסופו של דבר להוצאות גבוהות יותר לאורך השנים.",
+        "suggestion": "אני כאן כדי להקל על התהליך: לבחור את התמהיל עם המסלולים הנכונים, להשוות הצעות בצורה חכמה ולחסוך לכם כסף, זמן ובעיקר להימנע מקשיים כלכליים עתידיים שיכולים להיגרם מחוסר תכנון מדוקדק.",
+        "conclusion":"אל תחכו – תכננו את המשכנתא בצורה חכמה ונכונה כבר עכשיו!"
+    },
+    "About": {
+        "paragraph": "התחלתי את הדרך שלי כצרכן, בדיוק כמוכם. רכשתי דירה, והחלטתי לאתגר את עצמי ולהוציא משכנתא לבד, התחלתי ללמוד על הנושא ובמהלך הדרך, הבנתי עד כמה זה חשוב לדעת את כל הפרטים הקטנים – מה מסלול המשכנתא המתאים לי, איך לבחור את הריבית הנכונה, אילו אפשרויות יש לי כדי לחסוך כסף בטווח הקצר והארוך, ואיך לעשות זאת בצורה שתתאים לצרכים האישיים שלי, החלטתי לקחת יועץ שילווה אותי בתהליך. החוויה האישית הזאת,  גרמה לי להבין כמה חשוב להיות מלווה מקצועי בתהליך הזה. ראיתי את כל מה שצריך לקחת בחשבון – את כל הפרטים וההבטים הכלכליים שיכולים לשנות את כל התמונה, ושם הבנתי את החשיבות של ייעוץ משכנתאות מקצועי, ולמדתי את התחום בצורה רשמית מקיפה ומקצועית. אני כאן כדי לוודא שאתם מקבלים את ההחלטות הנכונות, שמתאימות לצרכים האישיים שלכם ומביאות לחיסכון משמעותי . אם אתם בתהליך לקיחת משכנתא ורוצים לחסוך ולשפר את התנאים שלכם, אני כאן בשבילכם.",
+                "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "משכנתא חדשה",
+            "text": "לרוכשי דירה למגורים /השקעה , נתכנן עבורכם את כל אפשרויות המימון ."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "מחזור משכנתא",
+            "text": "ההחזרים כבדים עליכם? יכולים להחזיר יותר כל חודש ? נדכג לכם להתייעלות כלכלית וחיסכון  במשכנתא הקיימת ."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "משכנא למשתכן",
+            "text": "זכיתם במחיר למשתכן? מזל טוב - משכנתא של מחיר למשתכן דורשת תכנון קפדני ומדוייק יותר בשנים הראשונות שלה ."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "איחוד הלוואות",
+            "text": "יש לכם הלוואות ? ההחזרים כבדים ? בשיחה איתנו תשמעו על האופציות לאחד את כל ההלוואות ולשלם פחות כל חודש, כך שהתזרים החודשי יהיה מאוזן ונכון יותר ."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "משכנתא לגיל השלישי",
+            "text": "מעוניינים לעזור לילדים? צריכים קצבה חודשית? ניתן לשעבד את הנכס ולקבל כסף במגוון דרכים , חייגו לשיחת התאמה."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "משכנתא למסורבים",
+            "text": "גם אם הבנק אמר לכם לא , אל תתיאשו  יחד נוכל לדאוג לכם למשכנתא אופטימלית עבורכם , בין אם בבנקים ובין אם בגופים חוץ בנקאיים ."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "פתח תקווה, ישראל ",
+        "phone": "+972-58-773-7892",
+        "phonecall": "tel:+972-58-773-7892",
+        "email": "Avihhom@gmail.com",
+        "sentemail": "https://mail.google.com/mail/?view=cm&fs=1&to=Avihhom@gmail.com&su=אני+מעוניין+ביועץ+משכנתאות&body=ביקרתי+באתר+שלך+אני+מעוניין+לדבר+על",
+        "whatsapp": "https://api.whatsapp.com/send?phone=972587737892&text=היי+אבי,+אני+מתעניין+בשירותים+שאתה+מציע.",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "מכיר את הבנקים",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "בעל נסיון",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "יתאים את המכנתא המדויקת עבורכה",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "אשכנזי",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
