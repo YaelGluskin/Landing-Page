@@ -3,7 +3,7 @@ const { promisify } = require("util");
 
 async function init() {
   await promisify(fs.remove)("./docs");
-  await promisify(fs.move)(/*"./build", */"./docs");
+  await promisify(fs.move)("./build", "./docs");
 }
 
 init();
